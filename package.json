@@ -1,0 +1,23 @@
+{
+  "name": "backendnode",
+  "version": "0.1.0",
+  "description": "desarrollando un chat",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "chat, server"
+  },
+  "keywords": [
+    "Oliver",
+    "Mendez"
+  ],
+  "author": "Oliver Mendez",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
